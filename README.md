@@ -1,0 +1,16 @@
+# SigmaOS-log-viewer
+
+Log viewer component for SigmaOS
+
+- **Category:** Creative
+- **Engine:** media_player
+- **Language:** Rust
+
+## Build & Test
+
+```sh
+cargo build
+cargo test
+```
+
+Part of the SigmaOS multi-repository component ecosystem.
