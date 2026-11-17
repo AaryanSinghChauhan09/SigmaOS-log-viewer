@@ -3,12 +3,12 @@ name = "SigmaOS-log-viewer"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "log-viewer component"
+description = "Log viewer component for SigmaOS"
 upstream = []
 
 [contract]
 provides = ["component"]
-depends_on = []
+depends_on = ["SigmaOS-system"]
 
 [maturity]
 status = "Scaffold"
