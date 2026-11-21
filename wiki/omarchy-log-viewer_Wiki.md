@@ -1,7 +1,7 @@
 # SigmaOS-SigmaOS-log-viewer Component Wiki
 
 ## Overview
-SigmaOS-SigmaOS-log-viewer provides Log viewer component for SigmaOS for the SigmaOS operating system. It demonstrates the subsystem and integration within the SigmaOS ecosystem, following the principles of clear abstraction and deterministic initialization.
+SigmaOS-SigmaOS-log-viewer provides Structured log parser, filter, and viewer for the SigmaOS operating system. It demonstrates the subsystem and integration within the SigmaOS ecosystem, following the principles of clear abstraction and deterministic initialization.
 
 ## Principles
 - Single Responsibility

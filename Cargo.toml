@@ -1,11 +1,13 @@
 [package]
-name = "sigmaos_log_viewer"
+name = "SigmaOS-log-viewer"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-
-[dependencies]
+description = "SigmaOS sigmaos-log-viewer component"
 
 [lib]
 name = "sigmaos_log_viewer"
 path = "src/lib.rs"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }

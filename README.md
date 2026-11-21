@@ -1,9 +1,9 @@
 # SigmaOS-log-viewer
 
-Log viewer component for SigmaOS
+Log Viewer for SigmaOS inspired by SigmaOS Linux
 
-- **Category:** Creative
-- **Engine:** media_player
+- **Category:** Utilities
+- **Engine:** log_viewer
 - **Language:** Rust
 
 ## Build & Test
